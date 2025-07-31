@@ -1,4 +1,4 @@
-# 🤖 gemini_qa_chatbot
+# 🤖 Conversational AI Assistant 
 
 A **Conversational Q&A Chatbot** that lets users ask questions from a collection of PDF documents using **LangChain**, **FAISS**, and **Google Gemini Pro (Free API)**. This chatbot performs document ingestion, embedding, and intelligent retrieval to give precise answers to user queries.
 
